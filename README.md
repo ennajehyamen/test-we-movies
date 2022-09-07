@@ -1,4 +1,4 @@
-**We-movies Symfony-Stack** is a **Symfony** stack for web applications and a set of reusable
+**We-movies** is a **Symfony** stack for web applications and a set of reusable
 **PHP components**.
 This stack is dockerized and compatible with **linux** distribution.
 
